@@ -1,8 +1,8 @@
-Repositori latihan
+Daftar-Biodata-Siswa
 ==
-Ini adalah repositori untuk latihan di Dicoding
+Daftar biodata Siswa Dicoding Academy
 --
-*terdapat beberapa cara dalam pembuatan repositori*
-- Cara 1
-- Cara 2
-- Cara 3
+*biodata siswa terdiri dari 3 angkatan yaitu sebagai berikut*
+- Angkatan 2019
+- Angkatan 2020
+- Angkatan 2021
